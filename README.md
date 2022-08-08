@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-![Murat's Github stats](https://github-readme-stats.vercel.app/api?username=Muratbzc&show_icons=true&theme=gradient) 
 ![Murat's Github stats](https://github-readme-stats.vercel.app/api?username=Muratbzc&show_icons=true&theme=radical)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muratbzc&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
